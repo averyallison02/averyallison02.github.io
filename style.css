@@ -1,0 +1,17 @@
+header {
+    background-color: #4ecdc4;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+
+main {
+    background-color: #f7fff7;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+
+footer {
+    background-color: #1a535c;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
